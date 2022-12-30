@@ -15,7 +15,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Feature branch test
+          Feature branch test 2
         </a>
       </header>
     </div>
